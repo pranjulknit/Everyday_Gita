@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Bhagwad Gita",
+    "description": "Bhagwad gita slok on new tab",
+    "version": "0.0.1",
+  
+    "author": "Pranjul",
+  
+    "chrome_url_overrides" : {
+      "newtab": "slok.html"
+    },
+  
+    "icons": { 
+      "16": "icons/get_started16.png",
+      "48": "icons/get_started32.png",
+      "128": "icons/get_started48.png" 
+    }
+  }
