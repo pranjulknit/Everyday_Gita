@@ -1,2 +1,10 @@
 # Everyday_Gita
-Chrome Extension for Bhagwad Gita quotes on every new tab
+Chrome Extension that display a new Bhagwad Gita Quote whenever user opens a new Tab.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img src="Screenshot (22).png">
+</br>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
