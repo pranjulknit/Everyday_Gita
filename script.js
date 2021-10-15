@@ -1,4 +1,4 @@
-fetch('https://bhagavadgitaapi.in/slok?api_key=595d8dfec542fa6b1')
+fetch('https://bhagavadgitaapi.in/slok?api_key=595d8dfec542fa6b1')//Please use your api_key  this is a free api key and it is has limited call.
     .then(data => data.json())
     .then(checkdata =>{
      const Textdata1 = checkdata.slok;
