@@ -1,5 +1,5 @@
 var key  = config.api_key;
-console.log(key);
+//console.log(key);
 fetch('https://bhagavadgitaapi.in/slok?api_key='+key)//Please use your api_key  this is a free api key and it is has limited call.
     .then(data => data.json())
     .then(checkdata =>{
